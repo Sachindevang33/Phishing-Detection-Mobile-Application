@@ -1,0 +1,68 @@
+{
+  "project_info": {
+    "project_number": "710567102682",
+    "project_id": "phishapp-ca5fc",
+    "storage_bucket": "phishapp-ca5fc.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:710567102682:android:9cff3c51a7b0d7c3f2fde3",
+        "android_client_info": {
+          "package_name": "com.example.phishapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "710567102682-tihr5ppbltqeo8t5svg9b5jeqvu2qnfs.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCGk9TRbc-zR7QPXC6XTDavTqkNQUOtLXI"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "710567102682-tihr5ppbltqeo8t5svg9b5jeqvu2qnfs.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:710567102682:android:ed1d776eb1156034f2fde3",
+        "android_client_info": {
+          "package_name": "com.example.phishdetector"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "710567102682-tihr5ppbltqeo8t5svg9b5jeqvu2qnfs.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCGk9TRbc-zR7QPXC6XTDavTqkNQUOtLXI"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "710567102682-tihr5ppbltqeo8t5svg9b5jeqvu2qnfs.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
